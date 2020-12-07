@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=XP? NewDesignator=XP4
+Added Component: Designator=XP2(PLS-02)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=SCL Pin=XP2-1
+Added Pin To Net: NetName=GND Pin=XP2-2
+Added Member To Class: ClassName=Schematic Member=Component XP2 PLS-02
